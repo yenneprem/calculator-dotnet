@@ -1,5 +1,3 @@
-f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp.Views.dll
-f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp.Views.pdb
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\Publish\web.config
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\appsettings.Development.json
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\appsettings.json
@@ -8,7 +6,6 @@ f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\Publish\appsettings.json
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\Publish\devopswebapp.deps.json
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\Publish\devopswebapp.runtimeconfig.json
-f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp.exe
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
@@ -97,8 +94,6 @@ f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp.dll
-f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp.pdb
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\obj\Debug\netcoreapp3.1\devopswebapp.Tests.csprojAssemblyReference.cache
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\obj\Debug\netcoreapp3.1\devopswebapp.Tests.csproj.CoreCompileInputs.cache
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\obj\Debug\netcoreapp3.1\devopswebapp.Tests.AssemblyInfoInputs.cache
@@ -108,3 +103,8 @@ f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\obj\Debug\netcoreapp3.1\
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\obj\Debug\netcoreapp3.1\devopswebapp.Tests.pdb
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\obj\Debug\netcoreapp3.1\devopswebapp.Tests.genruntimeconfig.cache
 f:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.TestHost.dll
+F:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp-coursetest.Views.dll
+F:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp-coursetest.Views.pdb
+F:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp-coursetest.exe
+F:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp-coursetest.dll
+F:\DOProjects\devops-webapp-solution\devopswebapp.Tests\bin\Debug\netcoreapp3.1\devopswebapp-coursetest.pdb

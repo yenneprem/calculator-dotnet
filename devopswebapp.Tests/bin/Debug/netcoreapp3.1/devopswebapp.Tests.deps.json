@@ -11,7 +11,7 @@
           "Microsoft.AspNetCore.TestHost": "2.2.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "coverlet.collector": "1.2.0",
-          "devopswebapp": "1.0.0",
+          "devopswebapp-coursetest": "1.0.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
         },
@@ -855,9 +855,9 @@
           "Microsoft.NET.Test.Sdk": "16.5.0"
         }
       },
-      "devopswebapp/1.0.0": {
+      "devopswebapp-coursetest/1.0.0": {
         "runtime": {
-          "devopswebapp.dll": {}
+          "devopswebapp-coursetest.dll": {}
         }
       }
     }
@@ -1456,7 +1456,7 @@
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
     },
-    "devopswebapp/1.0.0": {
+    "devopswebapp-coursetest/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
