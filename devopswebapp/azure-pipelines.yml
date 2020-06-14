@@ -14,5 +14,5 @@ steps:
 - task: AzureWebAppContainer@1 # Description what the task will execute
   inputs:
     azureSubscription: 'devops-course-service-connection'
-    appName: 'devops-course-webapp-test'
+    appName: 'devopswebapp-coursetest'
     containers: $(containerRegistry)/$(imageRepository):$(tag)
