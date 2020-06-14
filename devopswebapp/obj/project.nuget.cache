@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6BzWr1axzDB4Im6KjmGqVjPXIa+VB2f1wwOw7THz5K9t7Km0vgFRZIDLwAtDWEpEaIyr48QEKzy9Pbbzmzv/FQ==",
+  "dgSpecHash": "WoMJy0weh6i8967Bxc3fMzgRNNs7JRHQKPolkLnKr/bCb8LRqc5Nv4MsTGUUS0dx9W8T+KXYVis3WeQMAPL2+A==",
   "success": true,
-  "projectFilePath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
+  "projectFilePath": "f:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {}
+    "f:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {}
   },
   "projects": {
-    "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
+    "f:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
+        "projectUniqueName": "f:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
         "projectName": "devopswebapp",
-        "projectPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
+        "projectPath": "f:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
         "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\obj\\",
+        "outputPath": "f:\\DOProjects\\devops-webapp-solution\\devopswebapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
