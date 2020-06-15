@@ -2,10 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-<<<<<<< HEAD
-=======
-    <Assembly>devops-course-webapp-test</Assembly>
->>>>>>> 206c1497c592824b61c6e15e642bb0853ff548cb
   </PropertyGroup>
 
 </Project>
