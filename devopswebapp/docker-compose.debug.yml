@@ -3,7 +3,7 @@ version: '3.4'
 
 services:
   devopswebapp:
-    image: devops-course-webapp-test
+    image: devopswebapp
     build:
       context: .
       dockerfile: Dockerfile

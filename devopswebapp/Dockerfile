@@ -17,4 +17,4 @@ RUN dotnet publish "devopswebapp.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "devops-course-webapp-test.dll"]
+ENTRYPOINT ["dotnet", "devopswebapp.dll"]
