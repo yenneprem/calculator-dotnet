@@ -1,37 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {}
+    "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {}
   },
   "projects": {
-    "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {
+    "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
+        "projectUniqueName": "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
         "projectName": "devopswebapp.Tests",
-        "projectPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
-        "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp.Tests\\obj\\",
+        "projectPath": "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp.Tests\\devopswebapp.Tests.csproj",
+        "packagesPath": "C:\\Users\\yenne\\.nuget\\packages\\",
+        "outputPath": "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp.Tests\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Charles\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yenne\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "netcoreapp8.0",
             "projectReferences": {
-              "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
-                "projectPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj"
+              "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
+                "projectPath": "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj"
               }
             }
           }
@@ -40,10 +36,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "netcoreapp8.0",
           "dependencies": {
             "Microsoft.AspNetCore.TestHost": {
               "target": "Package",
@@ -72,7 +74,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,35 +84,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
+    "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
-        "projectName": "devopswebapp-coursetest",
-        "projectPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
-        "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
-        "outputPath": "F:\\DOProjects\\devops-webapp-solution\\devopswebapp\\obj\\",
+        "projectUniqueName": "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
+        "projectName": "devopswebapp",
+        "projectPath": "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp\\devopswebapp.csproj",
+        "packagesPath": "C:\\Users\\yenne\\.nuget\\packages\\",
+        "outputPath": "E:\\DevOps-Practice\\devops-webapp-solution\\devopswebapp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Charles\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\yenne\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "netcoreapp8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "netcoreapp8.0",
             "projectReferences": {}
           }
         },
@@ -117,17 +116,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "netcoreapp8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -139,7 +145,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
